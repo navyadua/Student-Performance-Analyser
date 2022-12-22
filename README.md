@@ -5,7 +5,7 @@ Students’ performance cannot be judged only by what they score, there are vari
 
 Let us take a scenario where a student has the ability to score well but due to family situations like parents separated or he/she is coming from a family which has a lot of issues, in such a situation he/she will not be able to concentrate properly and score. 
 
-Another situation is where a student spends time going out partying with his/her friends but at the same time is able to score well in the exams, that is because he/she spends their tim studying and at the same time goes out as well. 
+Another situation is where a student spends time going out partying with his/her friends but at the same time is able to score well in the exams, that is because he/she spends their timr studying and at the same time goes out as well. 
 
 Like this there can be many situations where student can or cannot perform well in the examinations, the reasons are unknown to us as the current system doesn't take into account the various socio-economic factors like alcohol consumption, romantic interest, family status, etc. 
 
