@@ -11,9 +11,8 @@
 [http://navyadua.pythonanywhere.com/](http://navyadua.pythonanywhere.com/)
 
 <h2>Project Screenshots:</h2>
-![image](https://user-images.githubusercontent.com/91384754/226185712-f7ad269b-ca42-4a56-a7d8-4efdf91bc901.png)
-![image](https://user-images.githubusercontent.com/91384754/226185714-ac38c923-b3c4-411e-933b-7e06440aded2.png)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/91384754/226185910-7d116671-2ee9-4ea5-8f6d-74b5138f3e34.png" alt="project-image-1"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91384754/226185936-8b803b04-bc2a-4c12-be98-3a5e56e0a08f.png" alt="project-image-2"></p>
 
 <h2>🧐 Importance </h2>
 
